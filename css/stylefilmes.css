@@ -6,6 +6,7 @@ body{
 .titulo{
     color: white;
     text-shadow: 1px 1px black;
+    padding: 100px;
 }
 
 .tabela{
@@ -75,3 +76,4 @@ footer{
     bottom: 0;
     z-index: 1;
 }
+
